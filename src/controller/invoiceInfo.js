@@ -1,4 +1,4 @@
-import Invoice from "../model/Invoice.js";
+import Invoice from "../model/invoice.js";
 
 
 
